@@ -1,5 +1,10 @@
-# 💫 Sobre Mí:
-Soy desarrollador web Full Stack en formación, con foco principal en el stack MERN (MongoDB, Express, React y Node.js) y en la construcción de aplicaciones web modernas, funcionales y escalables. Cuento con conocimientos en JavaScript, React, Next.js, HTML, CSS, Bootstrap, Git/GitHub, bases de datos y otras tecnologías relacionadas con el desarrollo web, además de conocimientos básicos en diferentes herramientas y lenguajes que continúo explorando y profundizando. Actualmente me encuentro en búsqueda de mi primera oportunidad profesional en la industria del desarrollo, con el objetivo de aplicar mis conocimientos en proyectos reales, adquirir experiencia trabajando en equipo y seguir creciendo como desarrollador. Mi recorrido profesional de varios años en la industria del diseño gráfico también me aporta una mirada orientada a lo visual, la experiencia de usuario y el detalle, pero hoy mi principal objetivo profesional está puesto en el desarrollo de software y la programación. Me considero una persona autodidacta, comprometida con el aprendizaje continuo y con muchas ganas de crecer y construir una carrera a largo plazo en tecnología.
+# 💫 Sobre Mí
+
+Hola! Soy Jonathan Tello. de Tucumán, Argentina.
+
+Soy desarrollador web Full Stack en formación, soy egresado de la academia Rolling Code School (Tucumán) como Desarrollador Web Full Stack (2023)
+
+Con foco principal en el stack MERN (MongoDB, Express, React y Node.js) y en la construcción de aplicaciones web modernas, funcionales y escalables. Cuento con conocimientos en JavaScript, React, Next.js, HTML, CSS, Bootstrap, Git/GitHub, bases de datos y otras tecnologías relacionadas con el desarrollo web, además de conocimientos básicos en diferentes herramientas y lenguajes que continúo explorando y profundizando. Actualmente me encuentro en búsqueda de mi primera oportunidad profesional en la industria del desarrollo, con el objetivo de aplicar mis conocimientos en proyectos reales, adquirir experiencia trabajando en equipo y seguir creciendo como desarrollador. Mi recorrido profesional de varios años en la industria del diseño gráfico también me aporta una mirada orientada a lo visual, la experiencia de usuario y el detalle, pero hoy mi principal objetivo profesional está puesto en el desarrollo de software y la programación. Me considero una persona autodidacta, comprometida con el aprendizaje continuo y con muchas ganas de crecer y construir una carrera a largo plazo en tecnología.
 
 
 ## 🌐 Contacto:
