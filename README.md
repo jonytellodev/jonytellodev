@@ -1,4 +1,4 @@
-# 💫 Sobre Mí
+#  Sobre Mí
 
 Hola! Soy Jonathan Tello. de Tucumán, Argentina.
 
